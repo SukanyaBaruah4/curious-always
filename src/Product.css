@@ -1,0 +1,27 @@
+.product-card {
+    display: flex;
+    align-items: center;
+    padding: 80px;
+    color: #ffffff;
+    background-color: rgb(42, 84, 104);
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size:1rem;
+    box-shadow: 10px 10px 25px -16px rgba(0, 0, 0, 0.75);
+    border-radius: 20px;
+    max-width: 2000px;
+    max-height: 1300px;
+    margin-bottom: 50px;
+  }
+   img{
+     width:300px
+   }
+  .product-card p {
+    margin-left: 10px;
+    margin-top: 0;
+  }
+  
+  .onet{
+    font-size:1rem;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 0.9;
+  }

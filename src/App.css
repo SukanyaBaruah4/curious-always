@@ -1,0 +1,60 @@
+
+.form-field{
+  border-radius: 5px;
+    border:30px;
+    padding: 30px;
+    border-radius:10px;
+    
+  }
+  
+.one{
+  background-color:#0eafaf;
+  padding:'12px 30px';
+  width:'300px';
+  margin: 20px;
+  border: none ;
+  border-radius: 10px;
+ 
+}
+.two{
+  background-color: #0eafaf;
+  padding:'12px 30px';
+  width:'300px';
+  margin: 20px;
+  border: none;
+  border-radius: 10px;
+ 
+}
+label{
+  color:white !important;
+}
+ h1{
+   color:white;
+   font-size: 80px;
+   font-family: Candara
+ } 
+
+ p{
+  color:white;
+  font-size: 30px;
+  font-family:Daytona
+} 
+
+ 
+ 
+ .button1 {
+  background-color:#4CAF50; 
+  color:white; 
+  border: none;
+  border-radius: 15px;
+  font-size: 20px;
+  font-family:Open Sans Extrabold;
+  margin:20px;
+  width:300px;
+  padding:20px
+}
+
+.button1:hover {
+  background-color: darkgreen;
+  color: white;
+}
